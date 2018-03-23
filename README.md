@@ -11,4 +11,4 @@ Project 4: Create Report from Database (SQL & Tableau)
 
 Project 5:
 
-Project 6: Classification Model: Default Risk Prediction – Loan Approval (Alteryx) 
+Project 6: Default Risk Prediction – Loan Approval (Alteryx Classification Model) 
