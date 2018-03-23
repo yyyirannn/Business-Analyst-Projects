@@ -8,3 +8,7 @@ Project 2: Catalog Demand Prediction (Alteryx Linear Regression)
 Project 3: Data Clean (Identify Outlier) (Alteryx)
 
 Project 4: Create Report from Database (SQL & Tableau) 
+
+Project 5:
+
+Project 6: Classification Model: Default Risk Prediction – Loan Approval (Alteryx) 
