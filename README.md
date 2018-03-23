@@ -12,3 +12,5 @@ Project 4: Create Report from Database (SQL & Tableau)
 Project 5:
 
 Project 6: Default Risk Prediction – Loan Approval (Alteryx Classification Model) 
+
+Project 7: AB Testing for New Menu Launch (Alteryx)
